@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Robert Schadek"
+	],
+	"copyright": "Copyright © 2022, Robert Schadek",
+	"dependencies": {
+		"d_tree_sitter": "~>1.2.1"
+	},
+	"lflags": ["libpythontree.a"],
+	"libs": ["stdc++"],
+	"description": "Python3 to Dlang converter",
+	"license": "LGPL3",
+	"name": "py3dlang"
+}
